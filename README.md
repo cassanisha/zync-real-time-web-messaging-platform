@@ -1,1 +1,1 @@
-zync-real-time-web-messaging-platform uses websockets
+zync-real-time-web-messaging-platform 
